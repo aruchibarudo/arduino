@@ -1,4 +1,5 @@
 //We always have to include the library
+#define ARDUINO 101
 #include "LedControl.h"
 
 /*

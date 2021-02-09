@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/archy/Arduino/libraries/LedControl/src",
+                "/home/archy/Downloads/arduino-1.8.13/libraries/Esplora/src",
+                "/home/archy/Downloads/arduino-1.8.13/libraries/Bridge/src",
+                "/home/archy/Arduino/libraries/LedController/src",
+                "/home/archy/Downloads/arduino-1.8.13/tools/**",
+                "/home/archy/Arduino/libraries/**",
+                "/home/archy/Downloads/arduino-1.8.13/libraries/**",
+                "/home/archy/Downloads/arduino-1.8.13/hardware/tools/**",
+                "/home/archy/Downloads/arduino-1.8.13/hardware/arduino/avr/**"
+            ],
+            "forcedInclude": [
+                "/home/archy/Downloads/arduino-1.8.13/hardware/arduino/avr/cores/arduino/Arduino.h"
+            ],
+            "defines": [
+                "USBCON"
+            ],
+            "intelliSenseMode": "linux-gcc-x64",
+            "cStandard": "gnu17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
