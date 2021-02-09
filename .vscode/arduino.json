@@ -1,4 +1,5 @@
 {
-    "programmer": "AVR ISP",
-    "board": "arduino:avr:leonardo"
+    "programmer": "USBasp",
+    "board": "arduino:avr:leonardo",
+    "sketch": "LCD7segment/LCD7segment.ino"
 }

@@ -17,7 +17,8 @@
                 "/home/archy/Downloads/arduino-1.8.13/hardware/arduino/avr/cores/arduino/Arduino.h"
             ],
             "defines": [
-                "USBCON"
+                "USBCON",
+                "ARDUINO=10607"
             ],
             "intelliSenseMode": "linux-gcc-x64",
             "cStandard": "gnu17",
